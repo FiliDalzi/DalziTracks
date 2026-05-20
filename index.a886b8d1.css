@@ -263,7 +263,7 @@ a:visited {
 
 @font-face {
     font-family: karlaregular;
-    src: url(/assets/fonts/karla/karla.woff2) format("woff2"), url(/assets/fonts/karla/karla.woff) format("woff");
+    src: url(./assets/fonts/karla/karla.woff2) format("woff2"), url(./assets/fonts/karla/karla.woff) format("woff");
     font-weight: 400;
     font-style: normal;
     font-display: swap
@@ -271,7 +271,7 @@ a:visited {
 
 @font-face {
     font-family: karlasemibold;
-    src: url(/assets/fonts/karla/karla-semi-bold.woff2) format("woff2"), url(/assets/fonts/karla/karla-semi-bold.woff) format("woff");
+    src: url(./assets/fonts/karla/karla-semi-bold.woff2) format("woff2"), url(./assets/fonts/karla/karla-semi-bold.woff) format("woff");
     font-weight: 400;
     font-style: normal;
     font-display: swap
@@ -279,7 +279,7 @@ a:visited {
 
 @font-face {
     font-family: karlabold;
-    src: url(/assets/fonts/karla/karla-bold.woff2) format("woff2"), url(/assets/fonts/karla/karla-bold.woff) format("woff");
+    src: url(./assets/fonts/karla/karla-bold.woff2) format("woff2"), url(./assets/fonts/karla/karla-bold.woff) format("woff");
     font-weight: 400;
     font-style: normal;
     font-display: swap
@@ -287,7 +287,7 @@ a:visited {
 
 @font-face {
     font-family: fredokasemibold;
-    src: url(/assets/fonts/fredoka/fredoka-semi-bold.woff2) format("woff2"), url(/assets/fonts/fredoka/fredoka-semi-bold.woff) format("woff");
+    src: url(./assets/fonts/fredoka/fredoka-semi-bold.woff2) format("woff2"), url(./assets/fonts/fredoka/fredoka-semi-bold.woff) format("woff");
     font-weight: 400;
     font-style: normal;
     font-display: swap
@@ -1919,7 +1919,7 @@ a {
 
 #component--info-popup .info-popup {
     pointer-events: auto;
-    background-image: url(/assets/images/others/infoPopup-down.png);
+    background-image: url(./assets/images/others/infoPopup-down.png);
     background-position: center top;
     background-size: contain;
     background-repeat: no-repeat;
