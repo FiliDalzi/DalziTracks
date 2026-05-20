@@ -1,0 +1,62 @@
+{
+    "entries": [
+        {
+            "headline": "Ci impegniamo a!",
+            "copy": "Descrivere come le tue informazioni possono essere utilizzate o <a href='https://www.google.com' target='_blank'> Link esterno a Google</a> in questa <a href='https://www.google.com' target='_blank'> Link esterno a Google 2</a> Informativa sulla Privacy"
+        },
+        {
+            "headline": "Dove posso trovarne?",
+            "bulletList": [
+                {
+                    "copy": "Punto 1 Il Lorem Ipsum è semplicemente un testo delizio/fittizio dell'industria della stampa e della composizione tipografica. Il Lorem Ipsum è stato il testo fittizio standard dell'industria fin dal 1500"
+                },
+                {
+                    "copy": "Punto 2 un campionario di caratteri. È sopravvissuto non solo a cinque secoli, ma anche al passaggio alla composizione elettronica, rimanendo sostanzialmente invariato. Esso"
+                },
+                {
+                    "copy": "Punto 3 i pacchetti software e gli editor di pagine web ora utilizzano il Lorem Ipsum come testo modello predefinito, e una ricerca per 'lorem ipsum' scoprirà molti siti web ancora nella loro infanzia. Varie versioni si sono evolute nel corso degli anni, a volte per caso"
+                },
+                {
+                    "copy": "Punto 4 Contrariamente alla credenza comune, il Lorem Ipsum esce non è semplicemente un testo casuale. Ha radici in un pezzo di letteratura latina classica del 45 a.C., cosa che lo rende vecchio di oltre 2000 anni. Richard McClintock, un professore di latino al Hampden-Sydney College in Virginia, ha cercato una delle parole latine più oscure, 'consectetur', da un passaggio del Lorem Ipsum e, esaminando le citazioni della parola nella letteratura classica, ne ha scoperto l'indubbia fonte."
+                }
+            ]
+        },
+        {
+            "headline": "Perché lo usiamo?",
+            "copy": "È un fatto ormai consolidato che un lettore sarà distratto dal contenuto leggibile di una pagina quando ne guarda il layout. Il senso dell'utilizzo del Lorem Ipsum è che ha una distribuzione delle lettere più o meno normale, rispetto all'uso di 'Contenuto qui, contenuto qui', facendolo apparire come un inglese leggibile. Molti pacchetti di desktop publishing e programmi di editing di pagine web utilizzano ora il Lorem Ipsum come testo modello predefinito, e una ricerca per 'lorem ipsum' rivelerà molti siti web ancora agli albori. Varie versioni si sono evolute nel corso degli anni, a volte per caso, a volte intenzionalmente (con l'inserimento di elementi di umorismo e simili)."
+        },
+        {
+            "headline": "Da dove viene?",
+            "copy": "Contrariamente alla credenza comune, il Lorem Ipsum non è semplicemente un testo casuale. Ha radici in un'opera di letteratura latina classica del 45 a.C., il che lo rende vecchio di oltre 2000 anni. Richard McClintock, professore di latino al Hampden-Sydney College in Virginia, ha cercato una delle parole latine più oscure, 'consectetur', in un passo del Lorem Ipsum e, esaminando le citazioni della parola nella letteratura classica, ne ha scoperto l'indubbia fonte. Il Lorem Ipsum proviene dalle sezioni 1.10.32 e 1.10.33 del 'de Finibus Bonorum et Malorum' (Sui confini del bene e del male) di Cicerone, scritto nel 45 a.C. Questo libro è un trattato sulla teoria dell'etica, molto popolare durante il Rinascimento. La prima riga del Lorem Ipsum proviene da una riga della sezione 1.10.32."
+        },
+        {
+            "headline": "Ci impegniamo a!",
+            "copy": "Descrivere come le tue informazioni possono essere utilizzate o <a href='https://www.google.com' target='_blank'> Link esterno a Google</a> in questa Informativa sulla Privacy"
+        },
+        {
+            "headline": "Dove posso trovarne?",
+            "numberList": [
+                {
+                    "copy": "Punto 1 Il Lorem Ipsum è semplicemente un testo delizio/fittizio dell'industria della stampa e della composizione tipografica. Il Lorem Ipsum è stato il testo fittizio standard dell'industria fin dal 1500"
+                },
+                {
+                    "copy": "Punto 2 un campionario di caratteri. È sopravvissuto non solo a... cinque secoli, ma anche al passaggio alla composizione elettronica, rimanendo sostanzialmente invariato. Esso"
+                },
+                {
+                    "copy": "Punto 3 i pacchetti software e gli editor di pagine web ora utilizzano il Lorem Ipsum come testo modello predefinito, e una ricerca per 'lorem ipsum' scoprirà molti siti web ancora nella loro infanzia. Varie versioni si sono evolute nel corso degli anni, a volte per caso"
+                },
+                {
+                    "copy": "Punto 4 Contrariamente alla credenza comune, il Lorem Ipsum esce non è semplicemente un testo casuale. Ha radici in un pezzo di letteratura latina classica del 45 a.C., cosa che lo rende vecchio di oltre 2000 anni. Richard McClintock, un professore di latino al Hampden-Sydney College in Virginia, ha cercato una delle parole latine più oscure, 'consectetur', da un passaggio del Lorem Ipsum e, esaminando le citazioni della parola nella letteratura classica, ne ha scoperto l'indubbia fonte."
+                }
+            ]
+        },
+        {
+            "headline": "Perché lo usiamo?",
+            "copy": "È un fatto ormai consolidato che un lettore sarà distratto dal contenuto leggibile di una pagina quando ne guarda il layout. Il senso dell'utilizzo del Lorem Ipsum è che ha una distribuzione delle lettere più o meno normale, rispetto all'uso di 'Contenuto qui, contenuto qui', facendolo apparire come un inglese leggibile. Molti pacchetti di desktop publishing e programmi di editing di pagine web utilizzano ora il Lorem Ipsum come testo modello predefinito, e una ricerca per 'lorem ipsum' rivelerà molti siti web ancora agli albori. Varie versioni si sono evolute nel corso degli anni, a volte per caso, a volte intenzionalmente (con l'inserimento di elementi di umorismo e simili)."
+        },
+        {
+            "headline": "Da dove viene?",
+            "copy": "Contrariamente alla credenza comune, il Lorem Ipsum non è semplicemente un testo casuale. Ha radici in un'opera di letteratura latina classica del 45 a.C., il che lo rende vecchio di oltre 2000 anni. Richard McClintock, professore di latino al Hampden-Sydney College in Virginia, ha cercato una delle parole latine più oscure, 'consectetur', in un passo del Lorem Ipsum e, esaminando le citazioni della parola nella letteratura classica, ne ha scoperto l'indubbia fonte. Il Lorem Ipsum proviene dalle sezioni 1.10.32 e 1.10.33 del 'de Finibus Bonorum et Malorum' (Sui confini del bene e del male) di Cicerone, scritto nel 45 a.C. Questo libro è un trattato sulla teoria dell'etica, molto popolare durante il Rinascimento. La prima riga del Lorem Ipsum proviene da una riga della sezione 1.10.32."
+        }
+    ]
+}
